@@ -69,11 +69,10 @@ This project is licensed under the MIT License. See the [LICENCE](LICENCE) file 
 
 ## 📬 Contact
 For questions, feedback, or support:
-- **Author**: Kacper Górski
-- **LinkedIn**: [Kacper Górski](https://www.linkedin.com/in/kacper-gorski-se)
-- **Instagram**: [@kxcper.gorski](https://www.instagram.com/kxcper.gorski)
-- **X**: [@Kerciuu](https://x.com/Kerciuu)
-- **GitHub**: [Kerciu](https://github.com/Kerciu)
-- **Support**: Email [kacper.gorski.contact@gmail.com](mailto:kacper.gorski.contact@gmail.com)
+- **Author**: Girish Gowda J
+- **LinkedIn**: [girish gowda](https://www.linkedin.com/in/girish-gowda-7ab431332)
+- **Instagram**: [@its__girish__gowda](https://www.instagram.com/its__girish_gowda)
+- **GitHub**: [girishgowda5478](https://github.com/girishgowda5478)
+- **Support**: Email [girishgowda5478@@gmail.com](girishgowda5478@gmail.com)
 
 For issues, please open a GitHub Issue. 🚀
